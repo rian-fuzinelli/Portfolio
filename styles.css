@@ -485,7 +485,7 @@ body {
 
 @media (min-width: 1440px) {
   .profile-photo {
-    width: 25vw;
+    width: 20vw;
     max-width: initial;
   }
 }
